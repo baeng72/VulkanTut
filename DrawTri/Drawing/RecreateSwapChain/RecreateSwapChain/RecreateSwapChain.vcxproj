@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{1c613595-303e-4034-afc4-fa453400d484}</ProjectGuid>
-    <RootNamespace>Rendering</RootNamespace>
+    <ProjectGuid>{f279d13a-58f2-48fd-a1fb-62ea2311e1d3}</ProjectGuid>
+    <RootNamespace>RecreateSwapChain</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
